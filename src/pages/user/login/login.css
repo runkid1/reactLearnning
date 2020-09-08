@@ -1,0 +1,13 @@
+.login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('https://static.oschina.net/dist/oschina/home/login/imgs/body-bg.png') no-repeat center;
+  background-size: 100% 100%;
+}
+
+.loginCenter {
+  width: 350px;
+}
