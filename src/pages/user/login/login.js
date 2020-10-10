@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { getRouterList } from '../../../store/actionCreate'
 import store from '../../../store/index'
 import { Form, Input, Button, Checkbox } from 'antd'
